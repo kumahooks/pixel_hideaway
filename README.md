@@ -1,4 +1,4 @@
-# pixel_hideaway
+# Pixel Hideaway
 Pixel Hideaway is a command-line tool for hiding and retrieving secret messages within PNG images. It utilizes the least significant bit (LSB) technique to encode and decode messages, and lodepng to interpret the png file.
 
 ## Usage
